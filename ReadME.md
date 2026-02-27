@@ -219,7 +219,7 @@ Digital-Loan-Transformation/
 
 ## About
 
-**G Yasaswini** | Aspiring Business Analyst | BFSI Domain  
+**G Yasaswini** | Aspiring Business Analyst 
 yashaswini2519@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/g-yasaswini/)
 
