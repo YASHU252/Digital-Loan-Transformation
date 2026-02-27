@@ -2,7 +2,7 @@
 
 **Domain:** BFSI | Retail Banking | Digital Transformation  
 **Role Simulated:** Business Analyst  
-**Date:** February 2026  
+**Date:** December 2025
 **Tools Used:** JIRA | Confluence | MS Word | Process Flow Design  
 
 ---
