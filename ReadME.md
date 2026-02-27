@@ -2,7 +2,7 @@
 
 **Domain:** BFSI | Retail Banking | Digital Transformation  
 **Role Simulated:** Business Analyst  
-**Date:** December 2025
+**Date:** 2025
 **Tools Used:** JIRA | Confluence | MS Word | Process Flow Design  
 
 ---
@@ -219,7 +219,7 @@ Digital-Loan-Transformation/
 
 ## About
 
-**G Yasaswini** | Aspiring Business Analyst 
+**G Yasaswini** |
 yashaswini2519@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/g-yasaswini/)
 
